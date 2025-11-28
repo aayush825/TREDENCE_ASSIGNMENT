@@ -322,7 +322,7 @@ The frontend will be available at: **http://localhost:3000**
 
 Here's a screenshot of the Collaborative Code Editor in action:
 
-![Collaborative Code Editor Demo](./Demo.png)
+![Collaborative Code Editor Demo](https://raw.githubusercontent.com/aayush825/TREDENCE_ASSIGNMENT/main/Demo.png)
 
 **Features Shown:**
 - Left sidebar with "Create Room" section
