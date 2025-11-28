@@ -138,7 +138,6 @@ npm start
 
 The frontend will be available at: **http://localhost:3000**
 
-
 ## API Endpoints
 
 ### Room Management
@@ -242,10 +241,9 @@ The frontend will be available at: **http://localhost:3000**
 
 ### Database
 
-- **SQLite** - Default database 
+- **SQLite** - Default database
 
 ## Environment Variables
-
 
 ```
 
@@ -346,3 +344,4 @@ Here's a screenshot of the Collaborative Code Editor in action:
 ---
 
 Created with ❤️ for the Tredence Assignment
+```
